@@ -1,0 +1,27 @@
+
+
+#---------------------------------------------------------------#
+#- Init
+#---------------------------------------------------------------#
+
+
+- Open keepass
+- Write password
+- Search "Duolinguo"
+- Get username
+
+- Open tor bowser
+- Enter in "https://www.duolingo.com/?isLoggingIn=true"
+- Click in "ja tenho uma conta"
+
+- Write username in "email ou nome de usuario"
+- Get password
+- Write password in "senha"
+- Click in "entrar"
+
+
+#---------------------------------------------------------------#
+#- Finish
+#---------------------------------------------------------------#
+
+
